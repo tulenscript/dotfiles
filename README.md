@@ -6,4 +6,4 @@ Dotfiles - это файлы настроек, которые использую
 
 ## Скриншот
 
-![](imaages/screenshot.png)
+![](images/screenshot.png)
