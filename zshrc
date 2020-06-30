@@ -13,6 +13,7 @@ POWERLEVEL9K_DISABLE_RPROMPT=true
 # Плагины
 plugins=(
     git
+    zsh-autosuggestions
     fast-syntax-highlighting
 )
 
