@@ -21,9 +21,10 @@ set -o vi # Включить vi-режим
 
 export TERM=xterm-256color   # Поддержка 256 цветов
 export EDITOR="/usr/bin/vim" # Vim как EDITOR
+export GOPATH=$HOME/.go      # Путь к Go
 
 alias irb='irb --prompt my-prompt' # Запуск irb с конфигом
-alias df='df -h'                   # Удобночитаеме размеры
+alias df='df -h'                   # Удобночитаемые размеры
 alias free='free -m'               # Вывод размеров в мегабайтах 
 
 source $ZSH/oh-my-zsh.sh
